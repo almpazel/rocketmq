@@ -1,0 +1,7 @@
+name: rocketmq
+description: A new dart rocketmq client application, using io dart pure io lib and simple data transform protocol apache rocketmq.
+version: 0.0.1
+homepage: https://github.com/almpazel/rocketmq
+
+environment:
+  sdk: ">=2.6.0 <3.0.0"
